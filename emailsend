@@ -27,9 +27,9 @@
 
     <script>
         function sendEmail() {
-            var email = 'your@email.com'; // Replace 'your@email.com' with the email address you want to send to
-            var subject = 'Subject line';
-            var body = 'Email body text';
+            var email = 'bonehead77755@gmail.com'; // Replace 'your@email.com' with the email address you want to send to
+            var subject = 'hi';
+            var body = 'test';
 
             window.location = 'mailto:' + email + '?subject=' + subject + '&body=' + body;
         }
